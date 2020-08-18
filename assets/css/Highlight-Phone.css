@@ -339,6 +339,8 @@ p {
   align-content: center;
   margin-left: 10%;
   margin-top: 2%;
+  line-height: .8;
+  margin-bottom: 2%;
 }
 
 #bot{
