@@ -805,6 +805,12 @@ nav {
       visibility: hidden;
   }
   /* hero =================================================================================================*/
+  #social{
+    display: flex; 
+    float:right;
+    margin-left: 15%;
+
+  }
 
   #hero {
       flex-direction: column;
@@ -1030,4 +1036,29 @@ nav {
 
 #conteudo-thank button a:hover {
   text-decoration: none;
+}
+
+
+
+
+
+/*----------------------------footer--------------------------------------*/
+#site-footer{
+  margin-top: 30%;
+  font-family: 'Baloo Tamma 2', cursive;
+  font-style: normal;
+  font-weight: bold;
+}
+
+#text-footer{
+  margin-top: 30%;
+  font-family: 'Baloo Tamma 2', cursive;
+  font-style: normal;
+  font-weight: bold;
+}
+
+#contato {
+  font-family: 'Baloo Tamma 2', cursive;
+  color: #595959;
+  font-style: italic;
 }
