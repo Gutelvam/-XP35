@@ -380,34 +380,95 @@ p {
   align-content: center;
   margin-left: 10%;
 }
-@media screen and (max-width: 1070px) {
+@media screen and (max-width: 1080px) {
   #text-card{
-    font-size: 45px;
-    line-height: 1.6;
-  }
-}
-@media screen and (max-width: 691px) {
-  #text-card{
-    font-size: 36px;
+    font-family: 'Baloo Tamma 2', cursive;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 50px;
+    text-transform: uppercase;
     line-height: 2vh;
+    width: 80%;
+    height: 60px;
+    color: #0945A0;
+    align-content: center;
+    margin-left: 10%;
   }
 }
-@media screen and (max-width: 573px) {
+
+
+@media screen and (max-width: 768px) {
   #text-card{
-    font-size: 30px;
+    font-family: 'Baloo Tamma 2', cursive;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 40px;
+    text-transform: uppercase;
     line-height: 2vh;
+    width: 80%;
+    height: 60px;
+    color: #0945A0;
+    align-content: center;
+    margin-left: 10%;
   }
 }
-@media screen and (max-width: 461px) {
+@media screen and (max-width: 620px) {
   #text-card{
+    font-family: 'Baloo Tamma 2', cursive;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 37px;
+    text-transform: uppercase;
+    line-height: 2vh;
+    width: 80%;
+    height: 60px;
+    color: #0945A0;
+    align-content: center;
+    margin-left: 10%;
+  }
+}
+
+@media screen and (max-width: 563px) {
+  #text-card{
+    font-family: 'Baloo Tamma 2', cursive;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 35px;
+    text-transform: uppercase;
+    line-height: 2vh;
+    width: 80%;
+    height: 60px;
+    color: #0945A0;
+    align-content: center;
+  }
+}
+
+@media screen and (max-width: 540px) {
+  #text-card{
+    font-family: 'Baloo Tamma 2', cursive;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 33px;
+    text-transform: uppercase;
+    line-height: 2vh;
+    width: 80%;
+    height: 60px;
+    color: #0945A0;
+    align-content: center;
+  }
+}
+@media screen and (max-width: 506px) {
+  #text-card{
+    font-family: 'Baloo Tamma 2', cursive;
+    font-weight: bold;
+    font-style: normal;
     font-size: 25px;
+    text-transform: uppercase;
     line-height: 2vh;
-  }
-}
-@media screen and (max-width: 380px) {
-  #text-card{
-    font-size: 20px;
-    line-height: 2vh;
+    width: 80%;
+    height: 60px;
+    color: #0945A0;
+    align-content: center;
   }
 }
 
