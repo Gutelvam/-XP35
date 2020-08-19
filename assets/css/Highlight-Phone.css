@@ -472,6 +472,21 @@ p {
   }
 }
 
+@media screen and (max-width: 382px) {
+  #text-card{
+    font-family: 'Baloo Tamma 2', cursive;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 15px;
+    text-transform: uppercase;
+    line-height: 2vh;
+    width: 80%;
+    height: 60px;
+    color: #0945A0;
+    align-content: center;
+  }
+}
+
 #text-quemsomos{
   font-family: 'Baloo Tamma 2', cursive;
   font-weight: bold;
