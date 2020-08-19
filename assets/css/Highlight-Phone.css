@@ -428,12 +428,12 @@ p {
   }
 }
 
-@media screen and (max-width: 563px) {
+@media screen and (max-width: 567px) {
   #text-card{
     font-family: 'Baloo Tamma 2', cursive;
     font-weight: bold;
     font-style: normal;
-    font-size: 35px;
+    font-size: 33px;
     text-transform: uppercase;
     line-height: 2vh;
     width: 80%;
@@ -448,7 +448,7 @@ p {
     font-family: 'Baloo Tamma 2', cursive;
     font-weight: bold;
     font-style: normal;
-    font-size: 33px;
+    font-size: 30px;
     text-transform: uppercase;
     line-height: 2vh;
     width: 80%;
