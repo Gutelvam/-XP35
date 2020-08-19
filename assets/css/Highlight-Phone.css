@@ -118,6 +118,19 @@ input[type="submit"]:hover{
   margin-top: 15%;
 }
 
+
+@media (max-width: 450px) 
+{
+  #form-button {
+    font-size: 15pt;
+  }
+  #cta {
+    margin-top: 15%;
+    width: 100%;
+  }
+  
+}
+
 label {
   margin-left: 6%;
   font-size: 1rem;
@@ -309,7 +322,49 @@ p {
   width: 80%;
   height: 100px;
   color: #0945A0;
+}
 
+@media screen and (min-width: 770px) {
+  #texto-receba{  
+    margin-top: 3%;
+  }
+ }
+@media screen and (max-width: 770px) {
+  #texto-receba{
+    font-size: 35px;
+    line-height: 2vh;
+    margin-top: 3%;
+  }
+  #button-1{
+    margin-right: 30%;
+    width: 60%;
+    height: 80px;
+
+  }
+}
+@media screen and (max-width: 532px) {
+  #texto-receba{
+    font-size: 25px;
+    line-height: 2vh;
+    margin-top: 3%;
+  }
+  #button-1{
+    margin-right: 30%;
+    width: 45%;
+    height: 60px;
+  }
+}
+@media screen and (max-width: 461px) {
+  #texto-receba{
+    font-size: 20px;
+    line-height: 2vh;
+    margin-top: 3%;
+  }
+  #button-1{
+    margin-right: 30%;
+    width: 30%;
+    height: 40px;
+  }
 }
 
 #text-card{
@@ -324,6 +379,30 @@ p {
   color: #0945A0;
   align-content: center;
   margin-left: 10%;
+}
+@media screen and (max-width: 1070px) {
+  #text-card{
+    font-size: 45px;
+    line-height: 2vh;
+  }
+}
+@media screen and (max-width: 691px) {
+  #text-card{
+    font-size: 37px;
+    line-height: 2vh;
+  }
+}
+@media screen and (max-width: 573px) {
+  #text-card{
+    font-size: 30px;
+    line-height: 2vh;
+  }
+}
+@media screen and (max-width: 461px) {
+  #text-card{
+    font-size: 25px;
+    line-height: 2vh;
+  }
 }
 
 #text-quemsomos{
@@ -378,6 +457,7 @@ p {
 }
 
 #button a:hover {
+  color: #063273; 
   text-decoration: none;
 }
 
@@ -1062,3 +1142,8 @@ nav {
   color: #595959;
   font-style: italic;
 }
+
+.card-left{
+  margin-left: 15%;
+}
+
