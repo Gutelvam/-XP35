@@ -331,12 +331,12 @@ p {
  }
 @media screen and (max-width: 770px) {
   #texto-receba{
-    font-size: 35px;
+    font-size: 30px;
     line-height: 2vh;
-    margin-top: 3%;
+    margin-top: 2%;
   }
   #button-1{
-    margin-right: 30%;
+    padding-right: -10%;
     width: 60%;
     height: 80px;
 
@@ -345,25 +345,25 @@ p {
 @media screen and (max-width: 532px) {
   #texto-receba{
     font-size: 25px;
-    line-height: 2vh;
-    margin-top: 3%;
+    line-height: 1.6;
+    margin-top: 2%;
   }
   #button-1{
-    margin-right: 30%;
-    width: 45%;
-    height: 60px;
+    padding-right: -10%;
+    width: 60%;
+    height: 80px;
   }
 }
 @media screen and (max-width: 461px) {
   #texto-receba{
     font-size: 20px;
-    line-height: 2vh;
-    margin-top: 3%;
+    line-height: 1.6;
+    margin-top: 2%;
   }
   #button-1{
-    margin-right: 30%;
-    width: 30%;
-    height: 40px;
+    padding-right: -10%;
+    width: 50%;
+    height: 50px;
   }
 }
 
@@ -383,12 +383,12 @@ p {
 @media screen and (max-width: 1070px) {
   #text-card{
     font-size: 45px;
-    line-height: 2vh;
+    line-height: 1.6;
   }
 }
 @media screen and (max-width: 691px) {
   #text-card{
-    font-size: 37px;
+    font-size: 36px;
     line-height: 2vh;
   }
 }
@@ -401,6 +401,12 @@ p {
 @media screen and (max-width: 461px) {
   #text-card{
     font-size: 25px;
+    line-height: 2vh;
+  }
+}
+@media screen and (max-width: 380px) {
+  #text-card{
+    font-size: 20px;
     line-height: 2vh;
   }
 }
