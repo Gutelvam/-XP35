@@ -25,6 +25,8 @@ Foi disponibilizado  a URL no qual o formulário deverá enviar os dados digitad
 Ou seja, foi necessário codar tudo, mas não o back-end e o banco de dados onde foram salvos esses leads. 
 
 ------EN------------
+
+
 Briefly, this is a project that aims to take over the world. Just kidding ... my focus here was to create a landing page to collect some qualified leads to our "fake startup project".
 
 Technically speaking, this website was made using the 'traditional' stack without any script: HTML5 + Pure CSS and was deployed to Netlify using its ci/cd service with Github.
