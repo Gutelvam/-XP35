@@ -1,5 +1,5 @@
 # Show me The Leads - XP35
-Show me the leads
+Show me the leads for gama experience 35
 
 Projeto iniciado e desenvolvido dia 17/08/2020 com o intuito de realizar o desafio da primeira semana do Gamaexperience 35
 
